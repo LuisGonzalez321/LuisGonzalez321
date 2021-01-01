@@ -23,3 +23,6 @@ const myStack = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgonzales123&show_icons=true&theme=react)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgonzales123&layout=compact)](https://github.com/luisgonzales123/github-readme-stats)
+
+
