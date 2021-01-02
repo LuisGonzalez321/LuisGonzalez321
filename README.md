@@ -19,8 +19,8 @@ const myStack = {
 }
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luisgonzales123&show_icons=true&theme=react)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuisGonzalez321&show_icons=true&theme=react)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisgonzales123&show_icons=true&theme=react)](https://github.com/luisgonzales123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGonzalez321&show_icons=true&theme=react)](https://github.com/LuisGonzalez321)
 
 
