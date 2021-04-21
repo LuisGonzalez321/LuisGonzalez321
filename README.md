@@ -14,7 +14,7 @@ const myStack = {
         backEnd: ["strapi", "NodeJs", "django"],
         fronEnd: ["react", "nextjs", "bootstrap", "bulma", "material ui"],
         mobileApp: ["react native"],
-        database: ["sqlServer","mySql", "mongodb"]
+        database: ["sqlServer","mySql", "mongodb", "firebase"]
     },
 }
 ```
